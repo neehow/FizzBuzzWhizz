@@ -1,16 +1,14 @@
 FizzBuzzWhizz
 =============
-我用Java写的FizzBuzzWhizz题目
-My version of FizzBuzzWhizz in Java
+用Java写的FizzBuzzWhizz题目
 
 题目来源：
-https://www.jinshuju.net/f/EGQL3D
+https://www.jinshuju.net/f/EGQL3D （已打不开。。。）
 
 大道至简，知易行难！
 
 我们的题目简约而不简单，千万不要轻敌，即使简单的代码，做到尽善尽美一样难能可贵，所以，提交之前，请想一想，它是不是可以更卓越，有人可以10行搞定，亲，你呢 ：） 
 
- 
 
 代码要求：
 
@@ -25,7 +23,6 @@ https://www.jinshuju.net/f/EGQL3D
 5，请提交可运行的代码，及相关构建脚本/说明文档（代码运行平台和环境）；
 
  
-
 FizzBuzzWhizz
 
 你是一名体育老师，在某次课距离下课还有五分钟时，你决定搞一个游戏。此时有100名学生在上课。游戏的规则是：
